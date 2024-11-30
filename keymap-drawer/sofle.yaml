@@ -137,7 +137,7 @@ layers:
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
   - {h: '4', s: '$$mdi:bluetooth-connect$$'}
   - {h: '5', s: '$$mdi:bluetooth-connect$$'}
-  - '&mmv SCROLL_UP'
+  - $$mdi:pan-up$$
   - F6
   - F7
   - F8
@@ -150,7 +150,7 @@ layers:
   - $$mdi:mouse-scroll-wheel$$
   - $$mdi:mouse-right-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&mmv SCROLL_DOWN'
+  - $$mdi:pan-down$$
   - PG UP
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F11
@@ -163,7 +163,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&mmv SCROLL_LEFT'
+  - $$mdi:pan-left$$
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
@@ -176,7 +176,7 @@ layers:
   - $$mdi:progress-download$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&mmv SCROLL_RIGHT'
+  - $$mdi:pan-right$$
   - PG DN
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:backup-restore$$', type: bootloader}
